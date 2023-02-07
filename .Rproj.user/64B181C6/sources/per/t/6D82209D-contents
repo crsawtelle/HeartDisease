@@ -14,5 +14,5 @@ HeartDisease <- unique(HeartDisease)
 change_col <- c('gender','target', 'cp', 'fbs', 'restecg', 'exang', 'slope', 'ca', 'thal')
 HeartDisease[change_col] <- lapply(HeartDisease[change_col], as.factor)
 
-# save to data filed
+# save to data file
 usethis::use_data(HeartDisease)
