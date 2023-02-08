@@ -30,6 +30,6 @@ a data frame with 302 observations with 14 columns
 HeartDisease
 }
 \description{
-Heart Disease
+An exploratory data analysis of the Heart Disease UCI dataset
 }
 \keyword{datasets}

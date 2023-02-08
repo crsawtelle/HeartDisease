@@ -1,5 +1,7 @@
 #' Heart Disease
 #'
+#' An exploratory data analysis of the Heart Disease UCI dataset
+#'
 #' @format a data frame with 302 observations with 14 columns
 #' \describe{
 #'   \item{age}{The age of participants}
