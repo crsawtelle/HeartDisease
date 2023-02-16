@@ -3,7 +3,7 @@
     "path": "~/HeartDisease/data_raw/HeartDisease.R",
     "project_path": "data_raw/HeartDisease.R",
     "type": "r_source",
-    "hash": "4151944390",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1675803395529.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
+        "cursorPosition": "19,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1676584713,
+    "lastKnownWriteTime": 1676584871,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1676584713637,
+    "last_content_update": 1676584871399,
     "read_only": false,
     "read_only_alternatives": []
 }
