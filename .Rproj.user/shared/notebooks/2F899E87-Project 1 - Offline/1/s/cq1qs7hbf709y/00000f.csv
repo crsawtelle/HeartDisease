@@ -1,0 +1,6 @@
+"0","exang_graph <- ggplot(heart_disease, aes(exang)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by exercise induced angina"") +"
+"0","  xlab(""exercise induced angine (0=false, 1=true)"")"
+"0","exang_graph %>% ggplotly()"

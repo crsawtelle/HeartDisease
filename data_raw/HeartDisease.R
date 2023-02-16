@@ -16,3 +16,6 @@ HeartDisease[change_col] <- lapply(HeartDisease[change_col], as.factor)
 
 # save to data file
 usethis::use_data(HeartDisease)
+
+# delete rows that include 3's and 4's from the Flouroscopy blood flow ca column
+HeartDisease <- subset(HeartDisease, !(ca %in% c(3,4)))

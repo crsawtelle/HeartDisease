@@ -1,0 +1,6 @@
+"0","ca_graph <- ggplot(heart_disease, aes(ca)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by blood flow"") +"
+"0","  xlab(""Flouroscopy blood flow (the higher the number the better the blood flow)"")"
+"0","ca_graph %>% ggplotly()"

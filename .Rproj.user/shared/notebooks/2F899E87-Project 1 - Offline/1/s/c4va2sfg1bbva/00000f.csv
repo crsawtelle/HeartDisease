@@ -1,0 +1,6 @@
+"0","thal_graph <- ggplot(heart_disease, aes(thal)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by Thallium stress test"") +"
+"0","  xlab(""Thallium stress test"")"
+"0","thal_graph %>% ggplotly()"

@@ -1,0 +1,8 @@
+"0","# Heart_Disease? vs fasting blood sugar"
+"0","fbs_graph <- ggplot(HD_target, aes(fbs)) +"
+"0","  geom_bar(aes(fill = Heart_Disease)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  scale_x_discrete(labels=c(""False"", ""True"" )) +"
+"0","  ggtitle(""Heart Disease by Fasting Blood Sugar"") +"
+"0","  xlab(""Fasting blood sugar > 120 mg/dl"") +"
+"0","  theme(plot.title = element_text(size = 10), axis.text = element_text(size = 10), legend.position = ""none"")"

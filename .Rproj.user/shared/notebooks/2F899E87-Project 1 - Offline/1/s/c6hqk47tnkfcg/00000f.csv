@@ -1,0 +1,6 @@
+"0","fbs_graph <- ggplot(heart_disease, aes(fbs)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by fasting blood sugar"") +"
+"0","  xlab(""Fasting blood sugar > 120 mg/dl (1=true, 0=false)"")"
+"0","fbs_graph %>% ggplotly()"

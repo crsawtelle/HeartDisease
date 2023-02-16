@@ -1,0 +1,6 @@
+"0","hd_graph <- ggplot(heart_disease, aes(gender)) +"
+"0","  geom_bar(aes(fill=target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by gender"") +"
+"0","  xlab(""Gender (0=female, 1=male)"")"
+"0","hd_graph %>% plotly::ggplotly()"

@@ -1,0 +1,6 @@
+"0","cp_graph <- ggplot(heart_disease, aes(cp)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by chest pain"")"
+"0",""
+"0","cp_graph %>% plotly::ggplotly()"

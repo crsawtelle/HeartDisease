@@ -1,0 +1,23 @@
+#' Heart Disease
+#'
+#' An exploratory data analysis of the Heart Disease UCI dataset
+#'
+#' @format a data frame with 302 observations with 14 columns
+#' \describe{
+#'   \item{age}{The age of participants}
+#'   \item{gender}{0 = female, 1 = male}
+#'   \item{cp}{Chest pain; 0 = typical angina, 1 = Atypical angina, 2 = Non-anginal pain, 3 = Asymptomatic}
+#'   \item{trestbps}{resting blood pressure: anything above 130-140 is typically cause for concern}
+#'   \item{chol}{serum cholesterol in mg/dl: serum = LDL + HDL + .2*triglycerides}
+#'   \item{fbs}{fasting blood sugar > 120; 0 = false, 1 = true}
+#'   \item{restecg}{resting electrocardiographic; 0 = normal, 1 = ST-T Wave abnormality, 2 = Possible or definite left ventrical hypertropy}
+#'   \item{thalach}{maximum heart rate achieved}
+#'   \item{exang}{exercise induced angina; 0 = false, 1 = true}
+#'   \item{oldpeak}{ST depression induced by exercise relative to rest}
+#'   \item{slope}{the slope of the peak exercise ST segment; 0 = upsloping, 1 = flatsloping, 2 = downsloping}
+#'   \item{ca}{flouroscopy blood flow; the higher the number the better the blood flow}
+#'   \item{thal}{thallium stress test}
+#'   \item{target}{0 = no heart disease, 1 = yes heart disease}
+#' }
+#' @source \url{www.kaggle.com/datasets/hartman/heart-disease-uci}?
+"HeartDisease"

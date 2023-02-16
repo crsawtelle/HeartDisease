@@ -1,0 +1,6 @@
+"0","restecg_graph <- ggplot(heart_disease, aes(restecg)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by resting electrocardiographic (EKG/ECG)"") +"
+"0","  xlab(""resting electrocardiographic (0=normal, 1=ST-T Wave abnormality, 2=possible left ventricular hpertrophy)"")"
+"0","restecg_graph %>% ggplotly()"

@@ -1,0 +1,6 @@
+"0","slope_graph <- ggplot(heart_disease, aes(slope)) +"
+"0","  geom_bar(aes(fill = target)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by slope of peak exercise ST segment"") +"
+"0","  xlab(""Slope (0=Upsloping, 1=Flatsloping, 2=Downsloping)"")"
+"0","slope_graph %>% ggplotly()"

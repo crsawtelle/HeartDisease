@@ -1,0 +1,8 @@
+"0","# Heart_Disease? vs chest pain"
+"0","cp_graph <- ggplot(HD_target, aes(cp)) +"
+"0","  geom_bar(aes(fill = Heart_Disease)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  scale_x_discrete(labels=c(""Typical Angina"", ""Atypical Angina"", ""Non-Anginal Pain"", ""Asymptomatic"" )) +"
+"0","  ggtitle(""Heart Disease By Chest Pain"") +"
+"0","  xlab(""Chest Pain"") +"
+"0","  theme(plot.title = element_text(size = 10), axis.text = element_text(size = 10), legend.position = ""none"")"

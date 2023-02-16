@@ -1,0 +1,6 @@
+"0","library(officer)"
+"0","ft <- qflextable(HD_var_data)"
+"0","read_docx() %>%"
+"0","  body_add_flextable(value = ft) %>%"
+"0","  print(target = ""C:/Users/dutch/OneDrive/Desktop/HD_var_data.docx"")"
+"0","ft"
