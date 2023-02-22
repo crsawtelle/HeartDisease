@@ -1,0 +1,6 @@
+"0","chi_data <- data.frame("
+"0","  Variable_X = c(""gender"", ""cp"", ""fbs"", ""restecg"", ""exang"", ""slope"", ""ca"", ""slope""),"
+"0","  Variable_Y = c(""Heart_Disease"", ""Heart_Disease"", ""Heart_Disease"", ""Heart_Disease"", ""Heart_Disease"", ""Heart_Disease"", ""Heart_Disease"", ""cp""),"
+"0","  X_squared = c(gender_stats$statistic, cp_stats$statistic, fbs_stats$statistic, restecg_stats$statistic, exang_stats$statistic, slope_stat$statistic, ca_stats$statistic, slope_cp_stats$statistic),"
+"0","  P_Value = c(round(gender_stats$p.value,8), round(cp_stats$p.value,8), round(fbs_stats$p.value,8), round(restecg_stats$p.value,8), round(exang_stats$p.value,8), round(slope_stat$p.value,8), round(ca_stats$p.value,8), round(slope_cp_stats$p.value,8))"
+"0",")"

@@ -1,0 +1,27 @@
+{
+    "id": "6D82209D",
+    "path": "~/HeartDisease/data_raw/HeartDisease.R",
+    "project_path": "data_raw/HeartDisease.R",
+    "type": "r_source",
+    "hash": "2751282643",
+    "contents": "",
+    "dirty": false,
+    "created": 1675803395529.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676584871,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676584871399,
+    "read_only": false,
+    "read_only_alternatives": []
+}

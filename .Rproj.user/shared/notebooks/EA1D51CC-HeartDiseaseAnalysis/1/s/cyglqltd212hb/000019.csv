@@ -1,0 +1,3 @@
+"0",""
+"0","# quantitative variables cowplot"
+"0","cowplot::plot_grid(age_box, bps_box, chol_box, thalach_box, old_box + theme(legend.position = ""none""), legend_box, labels = c(""A"", ""B"", ""C"", ""D"", ""E""), ncol=2 )"

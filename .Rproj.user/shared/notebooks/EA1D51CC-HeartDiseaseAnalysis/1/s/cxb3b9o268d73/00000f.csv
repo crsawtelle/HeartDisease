@@ -1,0 +1,6 @@
+"0",""
+"0","# Heart Disease target count"
+"0","target_graph <- ggplot(HeartDisease, aes(target)) +"
+"0","  geom_bar() +"
+"0","  ggtitle(""Count of people with heart disease"")"
+"0","#target_graph %>% plotly::ggplotly()"

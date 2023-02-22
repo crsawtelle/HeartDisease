@@ -1,0 +1,3 @@
+"0",""
+"0","# categorical variables cowplot"
+"0","cowplot::plot_grid(gender_graph, cp_graph, fbs_graph, restecg_graph, exang_graph, slope_graph, ca_graph, legend, ncol = 2, labels = c(""A"", ""B"", ""C"", ""D"", ""E"", ""F"", ""G"") )"

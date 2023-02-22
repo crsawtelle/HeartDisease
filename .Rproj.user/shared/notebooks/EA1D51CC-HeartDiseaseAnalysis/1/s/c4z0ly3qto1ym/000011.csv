@@ -1,0 +1,8 @@
+"0",""
+"0","# Heart_Disease? vs blood flow"
+"0","ca_graph <- ggplot(HD_target, aes(ca)) +"
+"0","  geom_bar(aes(fill = Heart_Disease)) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy')) +"
+"0","  ggtitle(""Heart Disease by Blood Flow"") +"
+"0","  xlab(""Flouroscopy blood flow"") +"
+"0","  theme(plot.title = element_text(size = 10), axis.text = element_text(size = 10), legend.position = ""none"")"

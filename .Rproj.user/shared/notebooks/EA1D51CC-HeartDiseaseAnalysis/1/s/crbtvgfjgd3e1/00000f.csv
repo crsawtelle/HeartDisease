@@ -1,0 +1,5 @@
+"0",""
+"0","old_hist <- ggplot(HD_target, aes(oldpeak, fill = Heart_Disease)) +"
+"0","  geom_histogram(bins = 15) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy'))"
+"0",""

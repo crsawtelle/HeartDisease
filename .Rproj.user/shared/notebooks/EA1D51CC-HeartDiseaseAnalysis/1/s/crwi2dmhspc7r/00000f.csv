@@ -1,0 +1,4 @@
+"0",""
+"0","chol_hist <- ggplot(HD_target, aes(chol, fill = Heart_Disease)) +"
+"0","  geom_histogram(bins = 15) +"
+"0","  scale_fill_manual(values = c(""gray"", 'navy'))"

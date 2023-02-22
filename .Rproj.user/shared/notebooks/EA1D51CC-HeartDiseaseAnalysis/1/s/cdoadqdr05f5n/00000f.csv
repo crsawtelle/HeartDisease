@@ -1,3 +1,4 @@
+"0",""
 "0","# Heart_Disease? vs heart rate slope"
 "0","slope_graph <- ggplot(HD_target, aes(slope)) +"
 "0","  geom_bar(aes(fill = Heart_Disease)) +"

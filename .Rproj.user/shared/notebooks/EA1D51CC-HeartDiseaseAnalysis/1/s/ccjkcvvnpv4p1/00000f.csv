@@ -1,0 +1,6 @@
+"0",""
+"0","# Refactor heart disease target from 0/1 to No/Yes and rename target to Heart_Disease"
+"0","HD_target <- HeartDisease %>%"
+"0","  mutate(target = ifelse(target == 0, ""No"", ""Yes"")) %>%"
+"0","  rename_at(""target"", ~ ""Heart_Disease"") "
+"0",""
