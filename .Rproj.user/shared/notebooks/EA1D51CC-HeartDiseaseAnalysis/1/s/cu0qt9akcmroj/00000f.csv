@@ -1,0 +1,5 @@
+"0","chi_data2 <- data.frame("
+"0","  Variable = c(""Gender vs Slope"", ""Chest Pain vs Slope"", ""Fasting Blood Sugar vs Slope"", ""Resting ECG vs Slope"", ""Exercise Induced Angina vs Slope"", ""Blood Flow vs Slope""),"
+"0","  X_squared = c(slope_gender_stats$statistic, slope_cp_stats$statistic, slope_fbs_stats$statistic, slope_restecg_stats$statistic, slope_exang_stats$statistic, slope_ca_stats$statistic),"
+"0","  P_Value = c(round(slope_gender_stats$p.value,8), round(slope_cp_stats$p.value,8), round(slope_fbs_stats$p.value,8), round(slope_restecg_stats$p.value,8), round(slope_exang_stats$p.value,8), round(slope_ca_stats$p.value,8))"
+"0",")"

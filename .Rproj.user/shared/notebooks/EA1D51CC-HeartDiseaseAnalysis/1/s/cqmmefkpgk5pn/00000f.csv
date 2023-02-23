@@ -1,0 +1,4 @@
+"0",""
+"0","# Print chi_squared test of independence table"
+"0","chi_slope <- qflextable(chi_data2)"
+"0","chi_slope"

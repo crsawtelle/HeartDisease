@@ -13,4 +13,4 @@
 "0","  ylab(""Oldpeak - ST Depression"")+"
 "0","  theme(plot.title = element_text(size = 10), axis.text = element_text(size = 10))"
 "0",""
-"0","legend <- cowplot::get_legend(old_box)"
+"0","legend_box <- cowplot::get_legend(old_box)"
