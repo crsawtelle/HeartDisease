@@ -3,6 +3,7 @@ title: "Heart Disease Project 1"
 author: "Crystal Sawtelle"
 date: "STA-486C"
 output:
+  pdf_document: default
   word_document: default
 bibliography: citations.bib
 ---
