@@ -5,6 +5,10 @@ Loading Data
 
 Heart disease affects hundreds of thousands of people a year and is the leading cause of death in the United States. There are several lifestyle choices and medical conditions that can put you at risk for heart disease including diabetes, unhealthy diet, lack of physical activity, overweight and obesity, smoking, etc. Another major risk of having heart disease is genetics CDC (2022). Analyzing this data will help in understanding the tests and other symptoms to look out for.
 
+Link to final report:
+
+https://github.com/crsawtelle/HeartDisease/blob/main/doc/HeartDiseaseAnalysis.pdf
+
 ### Data Description
       
 As seen in Table 1 there are 13 variables and 302 observations in the Heart Disease UCI data set retrieved from Kaggle.com “Heart Disease UCI” (n.d.). 
